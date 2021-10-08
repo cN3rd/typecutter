@@ -1,0 +1,2 @@
+VapourSynth>=51
+black>=21.9b0
