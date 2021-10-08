@@ -1,3 +1,4 @@
 VapourSynth>=51
 black>=21.9b0
 pytest==6.2.5
+tqdm==4.62.3
