@@ -1,0 +1,7 @@
+# treat test files as binary
+*.mkv binary
+
+# python linguist-language
+*.py linguist-language=python
+*.pyi linguist-language=python
+*.vpy linguist-language=python
